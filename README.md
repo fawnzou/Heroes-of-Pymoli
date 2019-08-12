@@ -2,7 +2,7 @@
 
 Use the Pandas Library and the Jupyter Notebook to analyzing the data for a game Heroes of  Pymoli and to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-The report included each of the following:
+## The report included each of the following:
 
 ### Player Count
 
